@@ -1,0 +1,4 @@
+﻿apache-airflow== 3.0.4;
+boto3;
+pandas;
+pytest;
